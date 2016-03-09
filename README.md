@@ -1,0 +1,1 @@
+# knockout-searchable-table
